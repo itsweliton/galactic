@@ -3,6 +3,7 @@
   "displayName": "Galactic Dark",
   "description": "A custom theme inspired on tinacious dark",
   "version": "0.0.1",
+  "publisher": "Weliton Soranzo",
   "engines": {
     "vscode": "^1.40.0"
   },
@@ -18,7 +19,7 @@
       }
     ]
   },
-   "repository": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/itsweliton/galactic"
   },
