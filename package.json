@@ -3,7 +3,7 @@
   "displayName": "Galactic Dark",
   "description": "A custom theme inspired on tinacious dark",
   "version": "0.0.1",
-  "publisher": "Weliton Soranzo",
+  "publisher": "itsweliton",
   "engines": {
     "vscode": "^1.40.0"
   },
