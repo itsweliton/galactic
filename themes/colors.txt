@@ -1,0 +1,5 @@
+colors: 
+Class: #4fff57
+STRING: #4ef192
+primitive types: #a065ff
+"entity.name.function": #69c3ff
