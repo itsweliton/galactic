@@ -1,6 +1,6 @@
 {
-  "name": "galactus-dark",
-  "displayName": "Galactus Dark",
+  "name": "galactic-dark",
+  "displayName": "Galactic Dark",
   "description": "A custom theme inspired on tinacious dark",
   "version": "0.0.1",
   "engines": {
@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Galactus Night",
+        "label": "Galactic Night",
         "uiTheme": "vs-dark",
         "path": "./themes/theme.json"
       }
